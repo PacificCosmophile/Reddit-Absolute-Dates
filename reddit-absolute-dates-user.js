@@ -2,12 +2,14 @@
 // @name                Reddit Absolute Dates
 // @namespace           https://github.com/PacificCosmophile/Reddit-Absolute-Dates
 // @description         Replaces Reddit's relative timestamps with clear, absolute dates.
-// @version             1.0
+// @version             1.1
 // @author              PacificCosmophile+Vibecoded
 // @license             MIT
 // @icon                https://raw.githubusercontent.com/PacificCosmophile/Reddit-Absolute-Dates/main/icons/icon144.png
 // @homepageURL         https://github.com/PacificCosmophile/Reddit-Absolute-Dates
 // @supportURL          https://github.com/PacificCosmophile/Reddit-Absolute-Dates/issues
+// @downloadURL         https://update.greasyfork.org/scripts/588396/Reddit%20Absolute%20Dates.user.js
+// @updateURL           https://update.greasyfork.org/scripts/588396/Reddit%20Absolute%20Dates.meta.js
 // @match               https://reddit.com/*
 // @match               https://www.reddit.com/*
 // @match               https://old.reddit.com/*
