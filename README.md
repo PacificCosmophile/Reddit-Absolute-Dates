@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PacificCosmophile/Reddit-Absolute-Dates/main/icons/icon144.png" width="128" alt="Reddit Absolute Dates Logo">
+<img src="https://raw.githubusercontent.com/PacificCosmophile/Reddit-Absolute-Dates/main/icons/icon.png" width="128" alt="Reddit Absolute Dates Logo">
 
 # Reddit Absolute Dates
 
