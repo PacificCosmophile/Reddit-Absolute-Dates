@@ -4,7 +4,7 @@
 
 # Reddit Absolute Dates
 
-**Replace Reddit's relative timestamps with clear, localized absolute dates.**
+**Replaces Reddit's relative timestamps with clear, localized absolute dates.**
 
 [![License](https://img.shields.io/github/license/PacificCosmophile/Reddit-Absolute-Dates?style=for-the-badge&color=blue)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/)
